@@ -22,7 +22,7 @@ Some notes for IELTS.
 
   ***Bold + Italic***: useful words/collections;
 
-  <u>Underline</u>: the words/sentence I couldn't recognize
+  <ins>Underline</ins>: the words/sentence I couldn't recognize
 
 ## My Word list
 
