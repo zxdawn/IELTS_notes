@@ -12,3 +12,7 @@ Some notes for IELTS.
 | [Voice of Cambridge (Wnag Lu)](http://blog.sina.com.cn/s/blog_4ae7ca990102wqab.html) | 雅思阅读真经5                    |                             | 雅思哥                          | Vocabulary for IELTS (Collins)           | The Economist                            |
 |                                          |                            |                             |                              | [IELTS Academic word list](https://ielts-up.com/writing/ielts-academic-wordlist.html) |                                          |
 
+## My Word list
+
+- [IELTS](https://www.vocabulary.com/lists/6038065)
+- [Podcasts](https://www.vocabulary.com/lists/6038063)
