@@ -18,10 +18,10 @@ No. Word
 
 ## Sources
 
-- Vocabulary.com
-- LDOCE5
-- Colins
-- 英语常用词疑难用法手册
+- [Vocabulary.com](https://www.vocabulary.com/)
+- [LDOCE5](https://www.ldoceonline.com/)
+- [Colins](https://www.collinsdictionary.com/)
+- [英语常用词疑难用法手册](https://book.douban.com/subject/5038844/)
 
 ## Software
 
