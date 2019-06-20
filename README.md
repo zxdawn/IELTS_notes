@@ -49,7 +49,7 @@ Some notes for IELTS.
 
   **Software:**
 
-  - GoldenDict
+  - [GoldenDict](http://goldendict.org/)
 
 ## My Word list
 

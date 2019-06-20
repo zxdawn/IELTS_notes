@@ -25,4 +25,4 @@ No. Word
 
 ## Software
 
-- GoldenDict
+- [GoldenDict](http://goldendict.org/)
