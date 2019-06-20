@@ -16,13 +16,40 @@ Some notes for IELTS.
 
 - Podcast_notes
 
-  *Note Style*
+  **Note Style:**
 
   **Bold**: The word I didn't know/understand;
 
   ***Bold + Italic***: useful words/collections;
 
-  <ins>Underline</ins>: the words/sentence I couldn't recognize
+  <ins>Underline</ins>: the words/sentence I couldn't recognize by audio.
+
+- Vocabulary_notes
+
+  **Note Style:**
+
+  No. Word
+
+  - Brief explanation
+
+  - Full Definitions
+
+    Synonyms
+
+  - Collections
+
+  - Examples
+
+  **Sources**:
+
+  - Vocabulary.com
+  - LDOCE5
+  - Colins
+  - 英语常用词疑难用法手册
+
+  **Software:**
+
+  - GoldenDict
 
 ## My Word list
 
