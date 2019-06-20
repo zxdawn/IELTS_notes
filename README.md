@@ -8,8 +8,8 @@ Some notes for IELTS.
 | Listening                                | Reading                    | Writing                     | Speaking                     | Vocabulary                               | Resources                                |
 | ---------------------------------------- | -------------------------- | --------------------------- | ---------------------------- | ---------------------------------------- | ---------------------------------------- |
 | IELTS Cambridge Test Books               | IELTS Cambridge Test Books | https://ielts-simon.com/    | IELTS Cambridge Test Books   | IELTS Cambridge Test Books               | https://www.jimuenglish.com/ (listening podcast online) |
-| Listening for IELTS (Collins)            | 雅思阅读真经总纲                   | Writing for IELTS (Collins) | Speaking for IELTS (Collins) | [The Academic Word List from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/us/wordlist/english/academic/) | BBC 6 minute learning English, BBC NEWs  |
-| [Voice of Cambridge (Wnag Lu)](http://blog.sina.com.cn/s/blog_4ae7ca990102wqab.html) | 雅思阅读真经5                    |                             | 雅思哥                          | Vocabulary for IELTS (Collins)           | The Economist                            |
+| Listening for IELTS (Collins)            | 雅思阅读真经总纲                   | Writing for IELTS (Collins) | Speaking for IELTS (Collins) | [The Academic Word List from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/us/wordlist/english/academic/) | [BBC 6 minute learning English](http://www.bbc.co.uk/learningenglish/english/features/6-minute-english), [BBC NEWs](https://www.bbc.com/news), [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) |
+| [Voice of Cambridge (Wnag Lu)](http://blog.sina.com.cn/s/blog_4ae7ca990102wqab.html) | 雅思阅读真经5                    |                             | 雅思哥                          | Vocabulary for IELTS (Collins)           | [The Economist](https://www.economist.com/) |
 |                                          |                            |                             |                              | [IELTS Academic word list](https://ielts-up.com/writing/ielts-academic-wordlist.html) |                                          |
 
 ## Directories
@@ -22,7 +22,7 @@ Some notes for IELTS.
 
   ***Bold + Italic***: useful words/collections;
 
-  <ins>Underline</ins>: the words/sentence I couldn't recognize by audio.
+  <ins>Underline</ins>: the words/sentence I couldn't recognize from the audio.
 
 - Vocabulary_notes
 

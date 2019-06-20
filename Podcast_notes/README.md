@@ -6,4 +6,4 @@
 
 ***Bold + Italic***: useful words/collections;
 
-<ins>Underline</ins>: the words/sentence I couldn't recognize
+<ins>Underline</ins>: the words/sentence I couldn't recognize from the audio.
