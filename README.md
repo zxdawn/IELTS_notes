@@ -60,7 +60,7 @@ Some notes for IELTS.
 
 ## Plan
 
-2019-08-20 -- 2019-08-31
+2019-08-10 -- 2019-08-18
 
 - **Listening**
 
