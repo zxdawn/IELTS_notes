@@ -132,7 +132,7 @@ verb
    ```
 
 
-## poultry
+## 5. poultry
 
 这个名词，指活的“家禽”时，是形式上单数但是语法上复数的集合名词（与people相类似）。
 
@@ -140,7 +140,7 @@ Nowadays, most poultry live (*lives) in battery houses. 今天，家禽大都居
 
 Red wine is drunk with meat and poultry. 喝红葡萄酒时，吃一些肉类和禽肉。
 
-## dairy
+## 6. dairy
 
 ```
 A dairy is a farm that specializes in milk and products made from milk. Cheese, yogurt, cream, and ice cream are all things that might be produced at a dairy.
@@ -153,3 +153,268 @@ The environmental and ethical case for a diet free of all animal products, inclu
 The GuardianJun 19, 2019
 ```
 
+
+## 7. aggregate
+```
+It descends from aggregāre ("to cause to flock together" or "to join together"), a Latin verb made up of the prefix ad- (which means "to," and which usually changes to ag- before a g) and greg- or grex (meaning "flock, herd, or group").
+Greg- also gave us congregate, gregarious, and segregate.
+Aggregate is commonly employed in the phrase "in the aggregate," which means "considered as a whole."
+Aggregate also has some specialized senses.
+For example, it is used to describe a mass of minerals formed into a rock, and materials like sand or gravel that are used to form concrete, mortar, or plaster.
+```
+1. the total after a lot of different figures or points have been added together
+
+   **aggregate of**
+
+   ```
+   The smaller minorities got an aggregate of 1,327 votes.
+   ```
+
+   **In the aggregate**
+
+   ```
+   In the aggregate (=as a group or in total), women outlive men by 7 or more years.
+   ```
+
+2. the whole amount
+
+## 8. congregate
+
+```
+Congregate comes from Latin root words com, meaning "together" and gregare, meaning "to gather in a flock."
+Congregation, or a gathering or assembly, comes from the same roots, as does gregarious, an adjective describing someone who likes to gather with others to socialize.
+If you remember the key word is flock — what ministers often call their congregations — you should have no trouble remembering congregate means to flock together.
+```
+
+1. to come together in a group OPP disperse
+
+   ```
+   Crowds began to congregate to hear the President’s speech.
+   ```
+
+## 9. gregarious /ɡrɪˈɡeəriəs /
+
+```
+If you know someone who's outgoing, sociable, and fond of the company of others, you might want to call her gregarious.
+The word was originally used to describe animals that live in flocks — it's from the Latin word grex, meaning "herd."
+Not surprisingly, people began using it to describe humans who liked being in groups. 
+Today biologists still speak of gregarious species, but you're more likely to hear it in reference to people.
+Despite what you might suspect, it has no historical connection to the name Gregory — but if you know an outgoing fellow with that name, you could call him Greg-arious.
+```
+
+## 10. balkanize
+
+Verb
+
+```
+ divide a territory into small, hostile states
+```
+
+1. to break up (a region, a group, etc.) into smaller and often hostile units
+2. divide, compartmentalize
+
+```
+Historical scholarship had become Balkanized into dozens of subfields and specialized methodologies, many of them virtually inaccessible to lay readers or even to specialists in other subfields.
+```
+
+## 11. hostile
+
+Adjective
+
+```
+If something is hostile, it's unfriendly. If you are zealous about the political causes you believe in, you will be hostile to any suggestion that the other side of the argument is reasonable.
+```
+
+```
+Hostile comes from the Latin word hostis, for enemy, and you can hear its relation to the word hostage. But you don't have to be from a warring nation to be hostile. You can talk about a hostile nation, a hostile takeover, a hostile remark, or a hostile attitude. Some synonyms are inimical, antagonistic, unfavorable, unfriendly.
+```
+
+*hostage, inimical, antagonistic, unfavorable, unfriendly*
+
+1. angry and deliberately unfriendly towards someone, and ready to argue with them
+
+   **hostile to/towards**
+
+   ```
+   The boy feels hostile towards his father.
+   ```
+
+2. opposing a plan or idea very strongly
+
+   ```
+   Senator Lydon was hostile to our proposals.
+   ```
+
+3. belonging to an enemy
+
+   ```
+   a hostile nation
+   a hostile remark
+   hostile actions
+   ```
+
+4. used to describe conditions that are difficult to live in, or that make it difficult to achieve something
+
+   **hostile environment/climate/terrain etc**
+
+   ```
+   He alleges he was fired 2014 in retaliation for complaining about a hostile work environment.
+   ```
+
+*THESAURUS*
+
+**unfriendly/not friendly**
+
+behaving towards someone in a way that shows you are not interested in them or are not ready to talk to them or help them
+
+```
+The hotel staff were unfriendly and unhelpful.
+an unfriendly tone of voice
+They didn't seem very friendly to strangers.
+She gave him an unfriendly glance.
+```
+
+**hostile**
+
+very unfriendly, and ready to argue or fight
+
+```
+He was openly hostile towards me when I arrived.
+A hostile crowd gathered oustide the US embassy.
+```
+
+**cold**
+
+behaving towards other people as if you do not like them or care about them
+
+```
+He gave her a cold stare.
+a cold voice
+```
+
+**frosty**
+
+unfriendly, especially because you are angry with someone
+
+```
+When she spoke, her tone was frosty.
+He got a frosty reception from his wife when he finally returned home (=she was not very friendly towards him).
+```
+
+**aloof** [not before noun]
+
+not wanting to talk to other people or spend time with them, especially because you think you are better than them
+
+```
+Some politicians are criticized for being too aloof.
+```
+
+**antagonistic**
+
+unfriendly and always trying to start arguments with someone
+
+```
+Why are Kate and John so antagonistic towards each other?
+```
+
+**antisocial**
+
+not interested in meeting other people or forming friendly relationships with them
+
+```
+Sorry if I'm being antisocial, but I need to get my work done.
+He was an antisocial loner with no friends.
+```
+
+## 12. zealous
+
+```
+Use the adjective zealous as a way to describe eagerness or enthusiastic activity. If you are too zealous in your efforts to decorate the house with Christmas lights, you might cause a power outage for the whole neighborhood.
+```
+
+```
+Zealous is the adjective for the noun zeal "eager partisanship"; the latter has a long e, but zealous has a short one: ZEL-uhs. It can have a slightly negative connotation, and people are sometimes described as "overzealous," meaning they try too hard. "Zealous" rhymes with "jealous" (and in fact they're from the same Greek word), but don't confuse them: a jealous person might be resentful of someone who makes zealous efforts to achieve success.
+```
+
+THESAURUS
+
+**enthusiastic**
+
+feeling or showing a lot of interest or excitement about something
+
+```
+He’s really enthusiastic about his new job.
+An enthusiastic crowd cheered the team onto the pitch.
+```
+
+**eager**
+
+wanting to do something or know about something very soon
+
+```
+He was eager to hear every detail of her day.
+She was always eager for her turn on the catwalk.
+The room was full of eager young faces.
+We waited in eager anticipation
+```
+
+**keen**
+
+eager to work or learn
+
+```
+She hasn’t much experience but she’s very keen.
+John was a keen student who worked very hard.
+```
+
+**zealous**
+
+doing something in a very enthusiastic way, especially supporting something or making sure that people obey rules
+
+```
+She was a zealous supporter of the revolution.
+The company has been extremely zealous in defending its interests.
+Officials have been very zealous in the application of the new regulations.
+```
+
+**avid** [only before noun]
+
+used when you want to emphasize that someone does something a lot or is very interested in something
+
+```
+an avid golfer
+She was an avid reader all her life.
+I’ve become an avid collector of his work.
+Henry is an avid fan of the sport.
+As a schoolboy he had an avid interest in birds.
+```
+
+**fervent**
+
+believing or feeling something very strongly and sincerely
+
+```
+Galinsoga was one of Franco’s most fervent supporters.
+One of Allen 's fervent admirers was Richard Nixon.
+her fervent belief in promoting the work of good women
+```
+
+be **mad** about something
+
+[informal] to like something very much and be very interested in it
+
+```
+My sister’s mad about horses.
+Since you’re so mad about clothes, you can help me choose a wedding dress.
+can’t wait to do something
+to be very eager to do something
+I can’t wait to get started.
+```
+
+**be looking forward to something**
+
+to feel pleased and excited because you know that something is going to happen soon
+
+```
+I’m looking forward to the vacation.
+```
