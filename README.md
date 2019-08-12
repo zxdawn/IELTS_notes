@@ -15,7 +15,7 @@ Some notes for IELTS.
 
 ## Directories
 
-- Podcast_notes
+- Podcast_notes / Journal_notes
 
   **Note Style:**
 
