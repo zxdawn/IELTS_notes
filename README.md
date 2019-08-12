@@ -53,11 +53,6 @@ Some notes for IELTS.
   - [GoldenDict](http://goldendict.org/)
   - [Mdict](https://www.mdict.cn/wp/?lang=en)
 
-## My Word list
-
-- [IELTS](https://www.vocabulary.com/lists/6038065)
-- [Podcasts](https://www.vocabulary.com/lists/6038063)
-
 ## Plan
 
 2019-08-10 -- 2019-08-18
@@ -86,7 +81,7 @@ Some notes for IELTS.
   
   ​		Daily: 18:30 -- 19:00
   
-  Reading article from [The Economist](https://github.com/nailperry-zd/The-Economist)
+  Reading article from The Economist ([PDF](https://github.com/nailperry-zd/The-Economist) and [md](https://github.com/fredliu168/TheEconomist) files)
   
   ​		Daily: 08:00 -- 08:30
   
