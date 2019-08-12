@@ -418,3 +418,276 @@ to feel pleased and excited because you know that something is going to happen s
 ```
 I’m looking forward to the vacation.
 ```
+
+## 13. cradle
+
+```
+To cradle is to hold delicately and gently, like how you would hold an infant. A cradle is the tiny bed with rockers that the infant sleeps in.
+```
+
+```
+The word cradle comes to us from the Old English word cradol, which meant "little bed or cot." And while it is important to cradle a baby's head when you pick them up out of their cradle, this word isn't all baby talk. Ever heard of ancient Greece? Otherwise known as "the cradle of democracy?" That's because the noun version of cradle can be used to poetically describe the birthplace of a movement or the area where an early idea was nurtured.
+```
+
+Noun
+
+1. a small bed for a baby, especially one that moves gently from side to side
+
+   ```
+   She rocked the cradle to quieten the child.
+   ```
+
+2. the place where something important began
+
+   **the cradle of something **
+
+   ```
+   //...New York, the cradle of capitalism.
+   ```
+
+3. **from (the) cradle to (the) grave**
+
+   all through your life
+
+   ```
+   The bond of brotherhood was one to last from the cradle to the grave.
+   ```
+
+Verb
+
+1. to hold something gently, as if to protect it
+2. to hold a telephone receiver by putting it between your ear and your shoulder
+
+THESAURUS
+
+**hug (also give somebody a hug)**
+
+to put your arms around someone and hold them tightly to show love or friendship
+
+```
+Mother hugged him and tucked him into bed.
+Come here and give me a big hug.
+```
+
+**embrace**
+
+to put your arms around someone and hold him or her in a caring way. Embrace is more formal than hug
+
+```
+Jason warmly embraced his son.
+The two leaders embraced each other.
+```
+
+**cuddle**
+
+to put your arms around someone or something as a sign of love, especially a child or a small animal
+
+```
+She sat on a chair, cuddling her daughter.
+He cuddled the puppy.
+```
+
+**put your arms around somebody**
+
+to hold someone closely to your body, especially to comfort them or show that you love them
+
+```
+The woman put her arms around the sobbing boy.
+```
+
+**cradle**
+
+to hold someone very gently in your arms, like you would hold a baby
+
+```
+She held the baby in her arms.
+She cradled his head in her hands and kissed him on the forehead.
+```
+
+## 14. sparse
+
+```
+Something that’s sparse is thin, not dense. If you’re looking for the perfect place to build a tree house, a sparse forest is probably not your best bet.
+```
+
+```
+From the Latin sparsus, meaning “scattered,” we get the adjective sparse, which means “few and scattered.” Thinning hair is sparse, as is the population of an endangered species. Or a small and scattered crowd for an unpopular band. Synonyms include dispersed, infrequent, and scanty. Antonyms, on the other hand, include full, lush, and plentiful.
+```
+
+## 15. timber
+
+```
+Timber! That's the call of warning you hear before a tree falls. That's because those lumberjacks are going to use the tree to make timber, otherwise known as "lumber" or the wood used for construction.
+```
+
+## 16. sublime
+
+```
+You might describe a spine-tingling piece of music as "a work of sublime beauty." With the, the word also functions as a noun meaning "something that strikes the mind with a sense of grandeur or power".
+```
+
+Adjective
+
+1. something that is sublime is so good or beautiful that it affects you deeply
+
+   ```
+   Her songs are a sublime fusion of pop and Brazilian music.
+   ```
+
+2. used to describe feelings or behaviour that are very great or extreme, especially when someone seems not to notice what is happening around them
+
+   ```
+   an air of sublime contentment
+   ```
+
+Noun
+
+1. **the sublime**
+
+   something that is so good or beautiful that you are deeply affected by it.
+
+   ```
+   She elevated every rare small success to the sublime.
+   ```
+
+2. **from the sublime to the ridiculous**
+
+   used to say that a serious and important thing or event is being followed by something very silly, unimportant, or bad
+
+   ```
+   At times the show veered from the sublime to the ridiculous.
+   ```
+
+## 17. livelihood
+
+```
+Your livelihood is the job you work at to earn the income that supports you.
+```
+
+```
+The word livelihood started out as the Old English līflād, or "course of life," and around the 13th century changed to livelode, which meant "a means of keeping one alive." As "-lode" morphed into "-hood," which meant "state, condition," the meaning of the word also changed to mean support for a person's life. That naturally came to mean your job, which provides the monetary support to keep you going.
+```
+
+**a means/source of livelihood**
+
+**earn a livelihood**
+
+**lose one's livelihood**
+
+```
+It’s difficult to earn a livelihood as an artist.
+Bates says he will lose his livelihood if his driving licence is taken away.
+As a result of this conflict he lost both his home and his means of livelihood.
+```
+
+## 18. fragile
+
+```
+If it's delicate and easily broken, like a rare glass vase or the feelings of an overly emotional friend, it's certainly fragile.
+```
+
+1. easily broken or damaged
+
+   ```
+   Be careful with that vase – it’s very fragile.
+   ```
+
+2. a fragile situation is one that is weak or uncertain, and likely to become worse under pressure
+
+   ```
+   the country’s fragile economy
+   Relations between the two countries are in a fragile state.
+   ```
+
+3. **fragile health**
+
+   a weak physical condition because of illness
+
+## 19. buffer
+
+```
+Buffer comes from the Old French buff, a word that imitates the sound of a blow to a soft body.
+A person can also be a buffer if she keeps people prone to fighting from coming in contact or hurting each other, like a teacher who separates two rowdy kids at the lunch table.
+A buffer state is a country between two conflicting ones that helps them better get along by creating a buffer between them — like Mongolia is for China and Russia.
+```
+
+Noun
+
+1. someone or something that protects one thing or person from being harmed by another
+
+   **buffer against**
+
+   ```
+   Eastern Europe was important to Russia as a buffer against the West.
+   ```
+
+   **buffer between**
+
+   ```
+   She often had to act as a buffer between father and son.
+   ```
+
+2. **buffer zone**
+
+   an area between two armies, that is intended to separate them so that they do not fight
+
+3. **buffer state**
+
+   a smaller country between two larger countries, that makes war between them less likely
+
+Verb
+
+to reduce the bad effects of something
+
+```
+Consumer spending is buffering the effects of the recession.
+```
+
+## 20. compound
+
+```
+If you compound a problem you add something to it to make it worse, like say, putting water on a grease fire. Compound means to combine; a compound is a combination or mixture of two or more things.
+```
+
+Noun
+
+1. a substance containing atoms from two or more elements
+
+   **compound of**
+
+   ```
+   Sulphur dioxide is a compound of sulphur and oxygen.
+   ```
+
+2. a combination of two or more parts, substances, or qualities
+
+   **compound of**
+
+   ```
+   Teaching is a compound of several different skills.
+   ```
+
+3. an area that contains a group of buildings and is surrounded by a fence or wall
+
+   ```
+   a prison compound
+   ```
+
+Verb
+
+1. to make a difficult situation worse by adding more problems
+
+   compound a problem/difficulty etc
+
+   ```
+   Helmut’s problems were compounded by his lack of concentration.
+   ```
+
+2. to be a mixture of things
+
+   **be compounded of something**
+
+   ```
+   a smell compounded of dust and dead flowers
+   ```
+
