@@ -691,3 +691,677 @@ Verb
    a smell compounded of dust and dead flowers
    ```
 
+## 21. stake
+
+```
+A stake is a wooden stick, sharpened on one end and used to mark property lines (or slay a vampire).
+In the Middle Ages, people would gamble by placing their bets on wooden posts, or stakes. Eventually the bets themselves became known as stakes. Today, you can use the word as a verb to describe any risky endeavor — for example, "Geoffrey staked his sandwich-making reputation on a six-foot hero with salami and pickles." A stake can also be an investment. If you say that "Bill has a stake in the business," it means he’s a part-owner.
+```
+
+*Noun*
+
+1. **at stake**
+
+   if something that you value very much is at stake, you will lose it if a plan or action is not successful
+
+   ```
+   They have to win the contract – thousands of jobs are at stake.
+   ```
+
+2. **hold/have a stake in something**
+
+   if you have a stake in a business, you have invested money in it
+
+   ```
+   He holds a 51% stake in the firm
+   ```
+
+3. **have a stake in something**
+
+   if you have a stake in something, you will get advantages if it is successful, and you feel that you have an important connection with it
+
+   ```
+   Young people don’t feel they have a stake in the country’s future.
+   ```
+
+*Verb*
+
+1. **stake something on somebody/something**
+
+   to risk losing something that is valuable or important to you on the result of something
+
+   ```
+   Kevin is staking his reputation on the success of the project.
+   ```
+
+2. **stake (out) a claim**
+
+   to say publicly that you think you have a right to have or own something
+
+   ```
+   Both countries staked a claim to the islands.
+   ```
+
+## 22. basin
+
+```
+A basin is a container that holds water and is used for washing, but you probably just call it your bathroom sink.
+You can think of basin as something shaped like a bowl. If you're going for an old-fashioned ring, say "wash basin." If you’re in England, you might use a basin for cooking. The word basin also has various geological senses, particularly a depression in the ground or ocean floor. A basin is also the spot where a river drains — like the famed Mississippi River Basin. That’s one big bowl!
+```
+
+*Noun*
+
+1. a round container attached to the wall in a bathroom, where you wash your hands and face.
+
+2. an area of land that is lower at the centre than at the edges, especially one from which water runs down into a river
+
+   ```
+   the Amazon basin
+   ```
+
+3. a place where the Earth’s surface is lower than in other areas
+
+   ```
+   the Pacific Basin
+   ```
+
+## 23. harbour
+
+*Noun*
+
+an area of water next to the land where the water is calm, so that ships are safe when they are inside it.
+
+```
+The ship was permitted to tie up in Boston harbour.
+```
+
+*Verb*
+
+1. to keep bad thoughts, fears, or hopes in your mind for a long time
+
+   ```
+    I think he’s harbouring some sort of grudge against me.
+   ```
+
+2. to contain something, especially something hidden and dangerous
+
+## 24. perilous / ˈperɪləs/
+
+```
+Something that is dangerous or very risky can be described with the adjective perilous. If you are driving in a blizzard, you may kick yourself for making such a perilous journey.
+The adjective perilous comes from the Latin word periculum, meaning dangerous. Words from the same root include peril, a noun meaning a dangerous situation, and imperil, a verb meaning to put in danger. The last thing you want to do as a parent is to imperil your children. Unfortunately, childhood is filled with peril — from climbing on the monkey bars to eating paste, dirt, or bugs. If you think you can prevent all perilous situations, you haven't been a parent very long!
+```
+
+*THESAURUS*
+
+**dangerous**
+
+likely to cause death or serious harm, or cause something bad to 
+
+**risky**
+
+if something is risky, something bad could easily happen or you could easily make a mistake: Doctors said it was too risky to operate.
+
+**hazardous**
+
+dangerous – used especially about substances, jobs, and journeys
+
+hazardous waste | hazardous chemicals
+
+## 25. tipping-point
+
+```
+the moment when one particular result of a process becomes the most likely one, after a period when the result is not sure
+```
+
+## 26. steppe
+
+```
+A steppe is a large geographic area of flat land. A prairie is a kind of steppe. This type of land can be found in both cold and warm environments — from Siberia to Mexico.
+A steppe, pronounced like the word step, is not quite dry enough to be a desert but not fertile enough for trees to grow. Think of it as a semi-desert covered in grass and shrubs. The word steppe can also be used to describe the climate in areas that are too dry for a forest, but not quite dry enough to be desert.
+```
+
+## 27. hasten /ˈheɪsən/
+
+*Verb*
+
+```
+The verb hasten means to move at a high speed. If you hasten to your room, no one will know that you came in late.
+Hasten comes from the word haste, which means "excessive speed or urgency." The words hurry and hasten are synonyms. Hasten can also mean "to make happen quickly," like when you open a window in the kitchen when you are cooking to hasten the room's cooling down. Hasten also means "to be quick," like when you hasten to tell everyone that the rumor going around about you isn't true.
+```
+
+1. to make something happen faster or sooner
+
+   ```
+   Their departure was hastened by an abnormally cold winter.behasten
+   ```
+
+2. to do or say something quickly or without delay
+
+   **hasten to do something**
+
+   ```
+   I hastened to assure her that there was no danger.
+   ```
+
+3. **I hasten to add**
+
+   used when you realize that what you have said may not 
+   have been understood correctly
+
+   ```
+   an exhausting course, which, I hasten to add, was also great funexhaustbe
+   ```
+
+## 28. avert /əˈvɜːt /
+
+```
+To avert is to turn away or to prevent. You might avert your gaze or avert a disaster — either way, you are avoiding something.
+The verb avert comes from Latin roots that mean "to turn away from."
+Averting has that sense of deflecting, turning away, or preventing something (usually bad) from happening.
+You might put salt on an icy sidewalk to avert accidents, or you might avert a toddler's meltdown by supplying a lollipop
+```
+
+1. to prevent something unpleasant from happening
+
+   ```
+   A fresh tragedy was narrowly averted yesterday.
+   ```
+
+2. **avert your eyes/gaze**
+   to look away from something so that you do not see it
+
+   ```
+   Henry averted his eyes as she undressed.
+   ```
+
+## 29. relinquish
+
+```
+If you relinquish something, you let it go.
+You relinquish control of the army when you resign as general.
+You relinquish your plan to sneak into town when your parents find out what's going on.
+Relinquish is also commonly used to mean physically letting go of something: The monkey wouldn't relinquish its grasp on the banana.
+Relinquish descends from Latin relinquere, from the prefix re- "again" plus linquere "to leave."
+```
+
+## 30. skulk /skʌlk/
+
+```
+Skulking is cowardly. It means hiding out, either because you're trying to pull something off in secret, or you're trying to get out of doing something you're supposed to be doing.
+If you cut school, it makes sense to do it in the style of "Ferris Bueller's Day Off," and enjoy yourself. Will the punishment be worse than if you skulk around town, avoiding teachers and people your parents know, not doing anything you really want to do?
+In spy movies, there are always bad guys in hotel lobbies, skulking about, hiding behind open newspapers.
+```
+
+## 31. chip away at sth
+
+to gradually make something less effective or destroy it
+
+```
+Fears about the future chipped away at her sense of well-being.
+```
+
+## 32. logging
+
+Logging is the activity of cutting down trees in order to sell the wood
+
+```
+Logging companies would have to leave a central area of the forest before the end of the year.
+```
+
+## 33. cattle /ˈkætl/
+
+```
+Use the word cattle to talk about a group of cows. A farmer might build a new fence to keep her cattle more safely secured in their pasture.
+Cattle usually refers to domesticated cows, almost always a large group of them. If you have a small dairy farm with only three or four cows, you'll probably call them "cows." When you're talking about a bigger operation, they're more likely to be called cattle. In the 13th century, the word simply meant "property," from the Medieval Latin capitale, "property or stock." It took about 300 years before cattle meant "cows."
+```
+
+是单数形式的集合名词，与之连用的动词用复数。
+
+【例如】Cattle were sold for next to nothing. 牲口贱价卖掉了。
+
+类似的情况还有：clergy, police, offspring, people, poultry, vermin, intelligentsia, majority, swine等。
+
+## 34. amnesty /ˈæmnəsti/
+
+```
+Amnesty can mean a pardon for a wrongdoing, or it can also signal a government's willingness to overlook something.
+Amnesty sounds a little like "amnesia," and that's because in its more specific sense amnesty means "forgetting."
+The government will essentially forget about whatever crime was committed, or whatever horrible things were said.
+As part of a truce, amnesty can be granted to opposition forces in civil disputes. Amnesty to illegal aliens means the government will deliberately overlook their illegal entry to the country.
+There can also be a period of amnesty when people can turn in something that they would otherwise get in trouble for. "The city offered a period of amnesty for everyone to turn in illegal guns."
+```
+
+赦免；大赦；An amnesty is an official pardon granted to a group of prisoners by the state. 
+
+```
+Activists who were involved in crimes of violence will not automatically be granted amnesty.
+```
+
+## 35. Recession  /rɪˈseʃən/
+
+```
+Jobs being cut? Houses not selling? Everyone talking about the poor sales of everything from cars to bouquets of flowers? That's a recession, a time of economic decline.
+Recession comes from the Latin word recessus, meaning "a going back, retreat." Think of all the things that get made and sold in a country. When fewer people buy things, orders for them slow down. The sales "go back" to a lower amount. This is an economic recession. This noun can also describe other kinds of "going back," like the recession of floodwaters that enable people to begin cleaning up their homes that had been filled with water.
+```
+
+**an economic recession**
+
+The economic recession of the '70s led to a fall in recruitment.
+
+**a world/global/worldwide recession**
+
+America’s airlines have been badly hit by the world recession.
+
+**a deep/severe recession**
+
+We are in the middle of a severe recession.
+
+**the worst recession**
+
+Colombia is going through its worst recession in decades.
+
+**the longest recession**
+
+The British economy was in its longest recession since the Second World War.
+
+**suffer/experience a recession**
+
+The country was suffering a deep recession.
+
+**slide/slip into recession** (=start to experience a recession)
+
+Most analysts don’t believe the economy will slide into recession.
+
+**plunge into recession** (=start to experience a deep recession)
+
+The US is about to plunge into recession.
+
+**be hit by a recession** (=be badly affected by it)
+
+Rural areas have been hardest hit by the recession.
+
+**cause recession**
+
+Rising oil prices help to fuel inflation and cause recession
+
+**a recession deepens** (=becomes worse)
+
+Economists fear the recession may be deepening.
+
+## 36. pare /peə/
+
+```
+To pare is to trim — like when you pare branches on a tree or pare down your expenses to save money.
+Pare comes from the Latin word parare, meaning "to prepare." Think of peeling potatoes, which you might do with a paring knife, or paring your nails so you'll make a neat appearance. In each case, you are trimming something gradually. If you pare down your expectations, you might be pleasantly surprised.
+```
+
+1. to cut off the outer layer of something, using a sharp knife
+
+   ```
+   Pare the rind from the fruit.
+   ```
+
+2. to reduce the amount, number, or size of something as much as you can
+
+   ```
+   The firm has not been able to pare costs fast enough to match competitors
+   ```
+
+**pare something ↔ down/back**
+
+to reduce something, especially by making a lot of small reductions
+
+```
+The United States can pare back its military presence in Asia as well
+```
+
+## 37. gleeful
+
+```
+If you're gleeful, you're delighted or joyful. The sound of children's gleeful laughter is one sign of a successful birthday party.
+When you feel gleeful, you're more than happy: you're exuberant and joyous. A friend's gleeful face tells you she's gotten great news or heard a hilarious joke, and gleeful kids will sometimes even scream with joy. In the 17th century, the alternate adjective gleesome competed with gleeful — both come from an Old English root, gliu, which means "mirth, play, sport," and also "music" and "mockery."
+```
+
+```
+He took an almost gleeful delight in showing how wrong they can be.
+```
+
+## 38. strip /strɪp/
+
+```
+The verb strip has many shades of meaning, but most of them involve removing something. Someone may strip you of your power or you may strip off your clothes. Whatever it is that you strip, it’s gone.
+```
+
+1. to take off your clothes or take off someone else’s clothes 
+
+   ```
+   Jack stripped and jumped into the shower.
+   ```
+
+   **strip off something**
+
+   ```
+   He stripped off his sweater and threw it onto the couch.
+   ```
+
+2. To strip someone of their property, rights, or titles means to take those things away from them.
+
+   ```
+   The soldiers have stripped the civilians of their passports, and every other type of document.
+   ```
+
+## 39. soar
+
+```
+To soar means more than just to fly; it means to rise swiftly, to feel the wind slipping below you as you ride it higher, higher, higher. Flying is just moving through the air. Soaring, though, suggests exhilaration, even joy.
+```
+
+1. to increase quickly to a high level
+
+   ```
+   The price of petrol has soared in recent weeks.
+   ```
+
+2. to fly, especially very high up in the sky, floating on air currents
+
+   ```
+   She watched the dove soar above the chestnut trees.
+   ```
+
+*THESAURUS*
+
+**increase**
+
+to become larger in number, amount, or degree
+
+```
+Sales increased by 25%.
+The level of violence has increased.
+```
+
+**go up**
+
+to increase. Go up is less formal than increase, and is the usual verb to use in everyday English
+
+```
+The price of coffee has gone up.
+```
+
+**rise**
+
+to increase. Rise sounds a little formal and is often used when talking about the level of something increasing
+
+```
+The demand for oil has been rising steadily.
+```
+
+**grow**
+
+to increase, especially gradually over a period of time – used about numbers or amounts
+
+```
+Since 1990, US imports of foreign goods have grown at a rate of 7.7% per year.
+```
+
+**escalate /ˈeskəleɪt/**
+
+to increase to a high level – used about things that you do not want to increase such as costs, crimes, or violence
+
+```
+Fuel prices are escalating.
+The fighting has escalated.
+```
+
+**double/triple**
+
+to become twice as much or three times as much
+
+```
+Since 1950, the number of people dying from cancer has almost doubled. | The company’s profits tripled last quarter.
+```
+
+**expand**
+
+to become larger in size, or to include a wider range of activities
+
+```
+The business has expanded at a rate of 15% per year.
+```
+
+**soar**
+
+to increase and reach a very high level – used about numbers and amounts, or about feelings
+
+```
+The temperature soared to 36.6 degrees centigrade
+His confidence soared.
+The singer’s popularity has soared.
+```
+
+**shoot up**
+
+to increase very quickly and suddenly – used about prices, numbers, or temperatures
+
+```
+Share prices shot up 30% over the last week.
+```
+
+## 40. shriver
+
+```
+When things shrivel, they wrinkle up and get smaller, the way leaves begin to shrivel and turn brown in the fall.
+A lack of moisture can cause something to shrivel, and in humans it tends to be the natural process of aging that makes people shrivel a bit. Flowers will shrivel if you forget to water them, and grapes will eventually shrivel into raisins if you dry them out long enough. The root of shrivel is uncertain, but it may have a Scandinavian source and be related to the Swedish word skryvla, "to wrinkle."
+```
+
+```
+More than 200,000 investors saw their life savings shrivel
+There’s also fruit – oranges – they look pretty bad because they’re kind of shrivelled up, but they smell amazing.
+```
+
+## 41. wither
+
+```
+Wither means to shrivel up or shrink. If you forget to water your plants for six weeks, they'll wither — they'll dry up and you probably won't be able to bring them back to life.
+Wither comes from the Middle English word wydderen, meaning "dry up, shrivel." In addition to shrinking, the verb wither can also refer to losing vitality and fading away, like people who wither as they age. They slowly lose their physical stamina and grow feeble. People also start to physically shrink at a certain age. In that way, they wither in both senses. Not only do they wither by losing their youth, they also wither by shrinking
+```
+
+1. if plants wither, they become drier and smaller and start to die
+
+2. to gradually become weaker or less successful and then end: 
+
+   ```
+   His career had withered.
+   She prompts withering hatred from her detractors, but focusing the hatred on specific charges is harder than one might think
+   ```
+
+## 42. hatred
+
+```
+The noun hatred means to feel a strong emotional dislike toward something or someone. You feel hatred of people who have done terrible things to you, or books about too-perfect teens.
+Hatred comes from Old English hete, which means "hate," plus the suffix red (ræden), which means "the condition of." If you find after twenty years of marriage you no longer like your husband, you may be able to work it out. If you feel hatred towards him, your differences may be irreconcilable.
+```
+
+**hatred of/for/towards**
+
+```
+hatred of foreign troops in the country对驻在本国的外国军队的讨厌态度。
+```
+
+有时候也可以用for。
+
+```
+hatred among the local people for the occupation troops当地人民对占领军的讨厌态度。
+```
+
+**feel hatred**
+
+```
+It was terrifying to know that someone could feel such hatred towards me.
+```
+
+**have a hatred of somebody/something** (=hate someone or something very much)
+
+```
+Gang members have a hatred of the police.
+```
+
+**stir up hatred** (=deliberately try to cause arguments or bad feelings between people)
+
+```
+Right-wing parties tried to stir up hatred and exploit racial tension.
+```
+
+**incite hatred** (=deliberately encourage people to hate each other)
+
+```
+He faces criminal charges for inciting racial hatred.
+```
+
+## 43. pessimist  /ˈpesɪmɪst/
+
+```\
+If the world can be divided into those who see the glass half empty and those who see the glass half full, the half-empty crew are known as pessimists––they always see the worst.
+The opposite of pessimist is optimist––someone who always sees thing in a positive light. Most people insist they are optimists, and when accused of pessimism suggest they're only focusing on reality. In fact, though, people who see reality as it is are called "realists."
+```
+
+```
+Call me a pessimist or call me a humanist, but I don’t see human nature fundamentally changing anytime soon.
+```
+
+## 44. runaway
+
+```
+A runaway is a person — often a child or teenager — who leaves home.
+A runaway is usually unhappy at home, and most runaways have families that are desperate to find them.
+A kid who grabs some snacks and hides out all night in his neighbor's tree house is one kind of runaway — a more serious runaway is a teenager who hitchhikes to a city and lives on the street or in a shelter.
+You can also use the word as an adjective to mean "out of control," like a runaway car rolling down a hill with no driver, or a movie that's a runaway success, making more money than anyone thought possible.
+```
+
+1. a runaway vehicle or animal is out of control
+
+   ```
+   a runaway horse
+   ```
+
+2. happening very easily or quickly, and not able to be controlled
+
+   ```
+   The film was a runaway success
+   ```
+
+3. a runaway person has left the place where they are supposed to be 
+
+## 45. kick in
+
+1. open violently
+
+2. If something kicks in, it begins to take effect
+
+   ```
+   When you're confronted with the problem, emotions kick in, fear kicks in, and you don't always do the rational and thought-out approach.
+   ```
+
+3. If someone kicks in a particular amount of money, they provide that amount of money to help pay for something
+
+   ```
+   Kansas City area churches kicked in $35,000 to support the event.
+   ```
+
+## 46. dismiss /dɪsˈmɪs/
+
+```
+At the end of a lesson period, your teacher says, "class dismissed." This means that you and the rest of the students are free to go.
+Dismiss means to let go. If a judge dismisses a case, it means he's saying it has no merit, and is throwing it out of court. If you are dismissed from your job, it means you've been fired. And if you've been ignoring your friends' warnings that your boyfriend is cheating, you've been dismissing their concerns. "Don't dismiss me!" is something you say when the person you're talking to is not taking you and your comments seriously.
+```
+
+1. to refuse to consider someone’s idea, opinion etc, because you think it is not serious, true, or important
+
+   ```
+   The government has dismissed criticisms that the country’s health policy is a mess.
+   ```
+
+   **dismiss something as something**
+
+   ```
+   He just laughed and dismissed my proposal as unrealistic.
+   ```
+
+2. to remove someone from their job 
+
+   **dismiss somebody from something**
+
+   ```
+   Bryant was unfairly dismissed from his post.
+   ```
+
+   **dismiss somebody for something**
+
+   ```
+   Employees can be dismissed for sending obscene emails.
+   ```
+
+3. to tell someone that they are allowed to go, or are no longer needed
+
+   ```
+   The class was dismissed early today.
+   ```
+
+## 47. hypocrisy /hɪˈpɒkrəsi/
+
+```
+People who go to church but don't believe in god? People who are vegetarians on a moral basis but wear leather jackets? They are engaging in hypocrisy, or behavior that is different from what they say they believe.
+A hypocrite is a person who practices hypocrisy: what they say is not what they do. The noun hypocrisy descends from the Greek hypokrisis "acting on a stage," from hypokrinesthai "to play a part, pretend," from the prefix hypo- "under" plus krinein "to judge." Many times kids are enraged by their parents' hypocrisy when parents make their children follow rules they don't follow themselves.
+```
+
+when someone pretends to have certain beliefs or opinions that they do not really have – used to show disapproval
+
+```
+The hypocrisy is not surprising, but it does illuminate that tension in Johnson’s self-image, between the wannabe statesman and the Trump tribute act.
+```
+
+## 48. dogma /ˈdɒɡmə /
+
+```
+Dogma means the doctrine of belief in a religion or a political system.
+The literal meaning of dogma in ancient Greek was something that seems true. These days, in English, dogma is more absolute. If you believe in a certain religion or philosophy, you believe in its dogma, or core assumptions. If you belong to a cult that believes that cupcake consumption is the only true path, then you follow the cupcake dogma. Dogma, once adopted, is accepted without question. Go eat cupcakes!
+```
+
+```
+This was “A Course in Miracles,” and it became the basis for all Williamson’s dogma.
+```
+
+## 49. pretext /ˈpriːtekst/
+
+```
+Pretext is a false reason given for doing something. If you catch your mother going through your drawers, and she says she was just tidying up, cleaning was her pretext for snooping.
+Sometimes a government will try to take away its citizens' rights under the pretext of national security. Though pretext sounds like text that comes before other text, the text you see in it is actually more closely related to the word textile, meaning fabric. Its Latin root meant pretty much "to pull the wool over someone's eyes."
+```
+
+**pretext for**
+
+```
+The incident provided the pretext for war.
+```
+
+**on/under the pretext of doing something**
+
+```
+Tom called at her apartment on the pretext of asking for a book.
+```
+
+**on/under the pretext that**
+
+```
+He left immediately on the pretext that he had a train to catch.
+```
+
+## 50. dieback
+
+```
+a disease of plants characterized by the gradual dying of the young shoots starting at the tips and progressing to the larger branches
+```
+
+```
+This “forest dieback” scenario would see massive amounts of heat-trapping carbon dioxide, stored within the Amazon’s vast amount of flora, released into the atmosphere.
+```
