@@ -55,7 +55,7 @@ Some notes for IELTS.
 
 ## Plan
 
-2019-08-10 -- 2019-08-18
+2019-09-10 -- 2019-09-30
 
 - **Listening**
 
