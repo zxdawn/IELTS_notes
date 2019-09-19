@@ -215,3 +215,57 @@ The Greek word that predicament originally descends from means "a state of being
 Other married couples are in a similar predicament.
 ```
 
+## 17. perch
+
+```
+A perch is a temporary resting place. In the middle of climbing a tree, you might find a good perch on a high branch. Bet some birds will be perching there too.
+Perch has many different meanings. A bird perch is a little stick it can balance on, and the armrest of the couch can offer you a perch during a party. It's also the name of a kind of fish with spiny fins. And it's also an old measurement of 16.5 feet.
+```
+
+*Noun*
+
+1. a branch or stick where a bird sits
+2. a high place or position, especially one where you can sit and watch something
+
+*Verb*
+
+1. to be in a position on top of something or on the edge of something
+
+   **be perched on/above etc something**
+
+   ```
+    house perched on a cliff above the town
+   ```
+
+2. to sit on top of something or on the edge of something
+
+   **perch (yourself) on something**
+
+   ```
+   Bobby had perched himself on a tall wooden stool.
+   ```
+
+3. **knocked off one's perch**
+
+   ```
+   There is a trend for knocking public-school headmasters and headmistresses off their perches.
+   ```
+
+## 18. stilt /stɪlt/
+
+```
+Stilts are walking devices that make the person wearing them much taller than usual. When you use stilts, you stand on foot rests and walk along far above the ground.
+Stilts are special poles, either for walking tall or for supporting a structure that might otherwise be damaged by water. You can sometimes see people walking on stilts at a circus or parade, and you can see houses on stilts in some beachfront communities. Walking stilts are sometimes also used by workers, including the stilts worn by window washers and fruit farmers.
+```
+
+1. one of a set of poles that support a building above the ground or above water
+
+   **on stilts**
+
+   ```
+   a house built on stilts
+   ```
+
+2. one of two poles which you can stand on and walk high above the ground
+
+## 19. 
