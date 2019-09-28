@@ -15,7 +15,7 @@ Some notes for IELTS.
 
 ## Directories
 
-- Podcast_notes / Journal_notes
+- **Podcast_notes / Journal_notes**
 
   **Note Style:**
 
@@ -25,7 +25,7 @@ Some notes for IELTS.
 
   <ins>Underline</ins>: the words/sentence I couldn't recognize from the audio.
 
-- Vocabulary_notes
+- **Vocabulary_notes**
 
   **Note Style:**
 
@@ -52,6 +52,10 @@ Some notes for IELTS.
 
   - [GoldenDict](http://goldendict.org/)
   - [Mdict](https://www.mdict.cn/wp/?lang=en)
+  
+- **Writing_notes**
+
+  [ielts-simon.com](https://ielts-simon.com/ielts-help-and-english-pr/) (Writing task1 and task2)
 
 ## Plan
 
