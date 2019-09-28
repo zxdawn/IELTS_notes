@@ -104,3 +104,55 @@ Some notes for IELTS.
   Review notes
   
   ​		Daily: 13:30 -- 14:00
+
+
+
+2019-10-01 -- 2019-10-15
+
+- **Listening**
+
+  Cambridge IELTS
+
+  ​		Daily: 09:00 -- 10:00
+
+  [Voice of Cambridge (Wang Lu)](https://weibo.com/ttarticle/p/show?id=2309404319052876149390)
+  
+  ​		Daily: 21:00 -- 22:00
+  
+  [6 Minute English](http://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
+  
+  ​		Weekly: Listen 22:00 -- 22:30 and review 08:30 -- 09:00
+  
+  [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/)
+  
+  ​		Once every two days: Listen 22:00 -- 22:30 and review 08:30 -- 09:00
+  
+- **Speaking**
+  
+  ???
+  
+  ​		Daily: 18:30 -- 19:00
+  
+  Reading article from The Economist ([PDF](https://github.com/nailperry-zd/The-Economist) and [md](https://github.com/fredliu168/TheEconomist) files)
+  
+  ​		Daily: 08:00 -- 08:30
+  
+- **Vocabulary**
+  
+  Any useful or unknown word from Podcast and Reading
+  
+  ​		Daily: 08:30 -- 09:00
+  
+- **Reading**
+  
+  [The Economist](https://github.com/nailperry-zd/The-Economist) (Leaders, China and Graphic detail)
+  
+  ​		Daily: 13:00 -- 13:30
+  
+  Review notes
+  
+  ​		Daily: 13:30 -- 14:00
+  
+  Cambridge IELTS
+  
+  ​		Daily: 14:00 -- 16:00
