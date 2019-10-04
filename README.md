@@ -59,7 +59,7 @@ Some notes for IELTS.
 ## Plan
 
 <details>
-<summary>> ~~2019-09-10 -- 2019-09-30~~</summary>
+<summary>2019-09-10 -- 2019-09-30 (Actually, I didn't practice ....)</summary>
 <p>
 
 - **Listening**
