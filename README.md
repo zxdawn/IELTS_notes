@@ -109,8 +109,6 @@ Some notes for IELTS.
   
   ​		Daily: 13:30 -- 14:00
 
-
-
 >  2019-10-01 -- 2019-10-15
 
 - **Listening**
@@ -145,6 +143,8 @@ Some notes for IELTS.
   
   Any useful or unknown word from Podcast and Reading
   
+  [CET6](https://github.com/mahavivo/english-wordlists)
+  
   ​		Daily: 08:30 -- 09:00
   
 - **Reading**
@@ -160,3 +160,5 @@ Some notes for IELTS.
   Cambridge IELTS
   
   ​		Daily: 14:00 -- 16:00
+  
+  ​		Focus on each kind using Cambridge IELTS 5 - 10
