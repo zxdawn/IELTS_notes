@@ -58,7 +58,9 @@ Some notes for IELTS.
 
 ## Plan
 
-> ~~2019-09-10 -- 2019-09-30~~
+<details>
+<summary>> ~~2019-09-10 -- 2019-09-30~~</summary>
+<p>
 
 - **Listening**
 
@@ -107,6 +109,9 @@ Some notes for IELTS.
   Review notes
   
   ​		Daily: 13:30 -- 14:00
+
+</p>
+</details>
 
 >  **2019-10-01 -- 2019-10-15**
 
