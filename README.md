@@ -201,7 +201,7 @@ Some notes for IELTS.
 | **10:00 -- 11:30**                | **Scientific research**                                      |
 | 13:00 -- 13:30                    | Read the Economist                                           |
 | 13:30 -- 14:00                    | Review notes                                                 |
-| 14:00 -- 15:30                    | Cambridge IELTS (Writing part)                               |
+| 14:00 -- 15:30                    | Cambridge IELTS (Reading part)                               |
 | **15:30 -- 17:00 18:00 -- 18:30** | **Scientific research**                                      |
 | 18:30 -- 19:30                    | Speaking (ieltsbro)                                          |
 | 19:30 - 20:30                     | Writing (Simon's IELTS Writing)                              |
