@@ -113,7 +113,9 @@ Some notes for IELTS.
 </p>
 </details>
 
->  **2019-10-01 -- 2019-10-15**
+<details>
+<summary>2019-10-01 -- 2019-10-15</summary>
+<p>
 
 - **Listening**
 
@@ -184,6 +186,12 @@ Some notes for IELTS.
   ​		[DCIELTS](https://dcielts.info/): learn Vocab and sentence according to Simon's IELTS eBook
 
   ​		Make my own summary docs: Agree&Disagree, Advantanges&Disadvantages ....
+
+</p>
+</details>
+
+## Current timetable
+
 
 | Time                              | Task                                                         |
 | --------------------------------- | ------------------------------------------------------------ |
