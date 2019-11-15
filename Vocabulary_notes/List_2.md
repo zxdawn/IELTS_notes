@@ -268,4 +268,356 @@ Stilts are special poles, either for walking tall or for supporting a structure 
 
 2. one of two poles which you can stand on and walk high above the ground
 
-## 19. 
+## 19. perspective
+
+## 20. illustration
+
+## 21. virtually
+
+## 22. appreciate
+
+## 23. metaphorical
+
+## 24. apt
+
+## 25. depict
+
+## 26. wobble
+
+## 27. bent
+
+## 28. signify
+
+## 29.favored
+
+## 30. evidently
+
+## 31. relate
+
+## 32. abolish
+
+```
+To abolish is to get rid of or annul. So when the principal yells at you for the 100th time for not having your shirt tucked in, it's safe to wish they'd just abolish the silly dress code.
+```
+
+```
+Slavery was abolished in the US in the 19th century.
+```
+
+## 33. abortion
+
+```
+Abortion is a surgical procedure that ends a pregnancy. In the United States, the public debate over a women's right to have an abortion is a complex and heated political issue.
+```
+
+## 34. abrupt /əˈbrʌpt/
+
+```
+An abrupt decision is one you make suddenly. An abrupt halt is one the Road Runner comes to when reaching an abrupt drop-off—you'd hear brakes squealing.
+Because being abrupt with someone is often a way of showing them that you are angry, you often apologize for the appearance of it. "I'm sorry I was abrupt. I was rushing to get to class." The root of abrupt is Latin rumpere "to break," which also gives us rupture "break" and interrupt "break into."
+```
+
+1. sudden and unexpected
+
+   ```
+   an abrupt change of plan
+   ```
+
+   **come to an abrupt end/halt etc**
+
+   ```
+   The bus came to an abrupt halt.
+   ```
+
+2. seeming rude and unfriendly, especially because you do not waste time in friendly conversation
+
+   ```
+   Sorry, I didn’t mean to be so abrupt.
+   ```
+
+## 35. absurd /əbˈsɜːd/
+
+```
+Something absurd is really silly, absolutely ridiculous, or total nonsense. Thinking you can wear flip flops and a bikini to the North Pole is an absurd idea, for example.
+```
+
+1. completely stupid or unreasonable
+
+   **quite/slightly/completely etc absurd**
+
+   ```
+   It seems quite absurd to expect anyone to drive for 3 hours just for a 20-minute meeting.
+   ```
+
+2. something that is completely stupid and unreasonable
+
+   **the absurd**
+
+   ```
+   Some of the stories he tells verge on the absurd.
+   ```
+
+## 36. accommodate
+
+```
+If you accommodate, you are making an adjustment to suit a particular purpose.
+If you accommodate your brother's demand for the attic room, then you give in and let him take over that space.
+```
+
+1. if a room, building etc can accommodate a particular number of people or things, it has enough space for them
+
+   ```
+   He bought a huge house to accommodate his library.
+   ```
+
+2. to provide someone with a place to stay, live, or work
+
+   ```
+   The island was used to accommodate child refugees.
+   ```
+
+3. to accept someone’s opinions and try to do what they want, especially when their  opinions or needs are different from yours
+
+   ```
+   We’ve made every effort to accommodate your point of view.
+   ```
+
+4. to get used to a new situation or to make yourself do this
+
+   **accommodate to**
+
+   ```
+   Her eyes took a while to accommodate to the darkness.
+   ```
+
+## 37. acquaint /əˈkweɪnt/ -> acquaintance
+
+作为及物动词，是“使某人熟悉某事物”，不是“自己熟悉”。而且是个瞬时动态动词。“自己去熟悉”就应该加个直接宾语oneself，熟悉什么，用介词with引入。
+
+【例如】I'll acquaint you with the facts. 我将要把情况向您介绍。/ I had acquainted myself with their customs. 我了解了他们的风俗习惯。
+
+但是acquaint somebody with后面只能是事情，不能是人。如果是人，acquaint要变换一下，成为make 
+somebody acquainted with somebody else。
+
+【例如】I'd like to make you acquainted with my brother. 我愿让您认识一下我哥哥。
+
+无论是acquaint或是make... acquainted，都是瞬时动态动词，表示“从不熟悉到熟悉”的瞬时变化。
+
+但to be acquainted则通常不指瞬时变化，而是个延续状态动词，指无限延续的“熟悉”状态，with后面是人或是事物均可。
+
+## 38. acute
+
+```
+Use the adjective acute for when you want to describe something as sharp or extremely serious.
+The word acute is one word; it's not two words, nor does it have anything to do with something small, cuddly, and pretty! Acute really means "sharp" or "severe" or "intense" and modifies certain kinds of angles in geometry or describes a certain kind of illness of short duration. The English word apparently entered the language during the sixteenth century from the Latin root acutus, which means "sharp" or "pointed.".
+```
+
+## 39. adhere /ədˈhɪə/
+
+```
+If you don't want monkey droppings to adhere to the sole of your shoe, watch where you’re walking. Maybe if you'd adhere, or stick to, the zoo rules and stay on the walking path, you wouldn't have to worry about it.
+Adhere is from the 15th-century French verb meaning "to stick." 
+```
+
+ to stick firmly to something
+
+**adhere to**
+
+```
+The eggs of these fish adhere to plant leaves.
+We adhere to the principles of equal rights and freedom of expression for all.
+```
+
+## 40. adverse /ˈædvɜːs /
+
+```
+Steer clear of anything adverse. If it's adverse, it's working against you — like adverse weather conditions or the adverse effects of eating too much sugar.
+```
+
+1. not good or favourable
+
+   ```
+   They fear it could have an adverse effect on global financial markets.
+   ```
+
+2. conditions that make it difficult for something to happen or exist
+
+   **adverse conditions**
+
+   ```
+   The expedition was abandoned because of adverse weather conditions.
+   ```
+
+**adverse / averse**
+
+*Adverse* and *averse* are both turn-offs, but  *adverse* is something harmful, and *averse* is a strong feeling of  dislike. Rainstorms can cause *adverse* conditions, and many people are  *averse* to rain. 
+
+*Adverse* describes something that works against you, like a  tornado or a computer crash, and is usually applied to things. **It's often followed by the word *effects***:
+
+```
+More significantly, he has shown that if such ageing cells are  selectively destroyed, these adverse effects go away.
+```
+
+*Averse* is usually applied to feelings, attitudes, or people.  It's a strong feeling of opposition — it's a big "no thanks" and **it's often  followed by *to***. *Averse* also goes with *risk* to describe  people (or banks) who don't like taking them:
+
+```
+Nevertheless, Ms. Fishbein is not averse to a large sociable  gathering.
+```
+
+## 41. aesthetic /iːsˈθetɪk/
+
+```
+The adjective aesthetic comes in handy when the subject at hand is beauty or the arts. A velvet painting of dogs playing poker might have minimal aesthetic appeal.
+```
+
+## 42. affiliate /əˈfɪliət/
+
+```
+An affiliate is a subordinate group or organization associated with a larger group or organization. For example, the American broadcasting company NBC has hundreds of affiliate stations around the country.
+Affiliate comes from the Medieval Latin term affiliat, meaning "adopted as a son," though it's unlikely NBC sees its affiliate companies in quite that way. The word can also be used to describe someone who simply hangs out with someone else a lot, or keeps company with them regularly, whether for business or not.
+```
+
+**affiliate with**
+
+```
+The Society is not affiliated with any political party.
+```
+
+**affiliate to**
+
+```
+the church’s right to affiliate to Rome
+```
+
+## 43. afflict /əˈflɪkt/
+
+```
+To afflict is to cause suffering, pain, or misery. It’s often associated with medical conditions. Carpal Tunnel Syndrome is most likely to afflict someone who spends many hours every day typing on our computers.
+```
+
+**afflict with/by**
+
+```
+There are two main problems which afflict people with hearing impairments.
+```
+
+## 44. alienate /ˈeɪliəneɪt/
+
+```
+When you alienate people, you make them stop liking or caring about you. Show up at a conference of cat lovers with a sign around your neck that says, "I hate kittens," and you'll learn firsthand what that means.
+```
+
+**alienate somebody from something**
+
+```
+He felt that his experiences had alienated him from society.
+```
+
+## 45. alleviate /əˈliːvieɪt/
+
+```
+Do all these words make your head ache? If so, take an aspirin to alleviate, or relieve, your pain.
+The verb, alleviate, stems from the Latin root, levis "light" and is related to modern English words such as elevator and levitate — both words implying a lightening of one's load. Alleviate also has this sense of lightening a burden such as physical pain or emotional duress. You can take medicine to alleviate symptoms or do exercise to alleviate stress. Or if you want a bigger challenge: try alleviating traffic congestion or world hunger.
+```
+
+to make something less painful or difficult to deal with
+
+**alleviate the problem/situation/suffering etc**
+
+```
+a new medicine to alleviate the symptoms of flu
+```
+
+## 46. analogy /əˈnælədʒi/
+
+```
+When you draw an analogy between two things, you compare them for the purpose of explanation. The movie character Forrest Gump made a silly analogy famous: "Life is like a box of chocolates".
+```
+
+**analogy with/to/between**
+
+```
+analogies between human and animal behaviour
+```
+
+**draw/make an analogy** (=make a comparison)
+
+```
+She drew an analogy between childbirth and the creative process.
+```
+
+## 47. anticipate
+
+```
+To anticipate something is to be expecting it. Your dog might be waiting by the door, anticipating his next walk or squirrel chase.
+```
+
+1. to expect that something will happen and be ready for it
+
+   ```
+   Sales are better than anticipated.
+   ```
+
+   **anticipate (that)**
+
+   ```
+   This year, we anticipate that our expenses will be 15% greater
+   ```
+
+   **anticipate doing something**
+
+   ```
+   I didn’t anticipate having to do the cooking myself
+   ```
+
+2. to think about something that is going to happen, especially something pleasant 
+
+   ```
+   Daniel was eagerly anticipating her arrival.
+   ```
+
+## 48. apparatus /ˌæpəˈreɪtəs/
+
+```
+Your apparatus is the collective equipment you use for specific purposes. For example, the apparatus used for scuba diving includes goggles, flippers, and a breathing tank, while a surgeon’s apparatus includes various scalpels and clamps. Different activities, different apparatuses.
+The noun apparatus evolved from the Latin apparātus, meaning "equipment or preparation." It might refer to one item, (a breathing apparatus) or a group of items (sports apparatus). Here’s a spelling tip: often, when a word ends in -us, the plural ending changes to i — “alumnus/alumni,” “focus/foci.” However, apparatus is part of the group that doesn't change — words like “virus/viruses” or “census/censuses.” This means the plural is either apparatus or apparatuses, though the latter is more common.
+```
+
+1. the set of tools and machines that you use for a particular scientific, medical, or technical purpose 
+
+   ```
+   Astronauts have special breathing apparatus.
+   ```
+
+2. the way in which a lot of people are organized to work together to do a job or control a company or country 
+
+   ```
+   The tax will require a massive administrative apparatus
+   ```
+
+
+## 49. appease
+
+```
+Appease means to make or preserve peace with a nation, group, or person by giving in to their demands, or to relieve a problem, as in "the cold drink appeased his thirst."
+Appease often implies abandoning your moral principles to satisfy the demands of someone who is greedy for power: think of British Prime Minister Chamberlain's attempt to appease the Nazis at Munich. The verb appease comes from the Old French apaisier, "to pacify, make peace, or be reconciled," from the phrase "a paisier," which combines a-, or "to," and pais, "peace," from the Latin pax
+```
+
+to make someone less angry or stop them from attacking you by  giving them what they want
+
+```
+Basketball fans in China were not appeased, with many airing criticism of the Rockets on Weibo.
+```
+
+## 50. appliance
+
+```
+An appliance is a tool or device that performs a certain job. Your toaster is an appliance, and so is your dishwasher. Your dog? Not so much.
+Most modern homes are full of appliances that perform various useful tasks — or help you perform them. A hairdryer is an appliance that dries your hair, and a television is an appliance that offers hours of mindless entertainment. The earliest meaning of the word was "action of putting into use," from the verb apply, with its Latin root, applicare, which figuratively means "devote oneself to" or "give attention."
+```
+
+domestic/household etc appliance
+
+```
+There’s plenty of space for all the usual kitchen appliances.
+```
