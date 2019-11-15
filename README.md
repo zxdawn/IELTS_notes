@@ -24,6 +24,22 @@ Some notes for IELTS.
 
   <ins>Underline</ins>: the words/sentence I couldn't recognize from the audio.
 
+- **Listening_notes**
+
+- **Speaking_notes**
+
+  Notes of Oxford online English for IELTS Speaking
+
+  Notes of Simon videos
+
+- **Test_notes**
+
+  Notes of Reading and Listening parts of IELTS Cambridge Test Books
+
+- **Writing_notes**
+
+  Notes of Task1 and Task2 from Simon videos and ebooks
+
 - **Vocabulary_notes**
 
   **Note Style:**
