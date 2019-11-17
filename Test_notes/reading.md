@@ -1,37 +1,88 @@
-## Note
+# Reading
 
-*: couldn't hear the exact words
+# IELTS 10 TEST1 (8)
 
-**: Spelling fault
+|           | True | False                                                        | Not Sure |
+| --------- | ---- | ------------------------------------------------------------ | -------- |
+| Q1 -Q4    | *    |                                                              |          |
+| Q5        |      | Not understand the sentence and neglect the first sentence of paragraph |          |
+| Q6 - Q9   | *    |                                                              |          |
+| Q10       |      | Synonymous replacement. Pay attention to **one word and a number** |          |
+| Q11 - Q25 | *    |                                                              |          |
+| Q26       |      | mentioned                                                    |          |
+| Q27 - Q29 | *    |                                                              |          |
+| Q30       |      | speculation                                                  |          |
+| Q31 -Q35  | *    |                                                              |          |
+| Q36       |      | Don't negelect the first paragraph                           |          |
+| Q37 -Q40  |      |                                                              |          |
 
-***: Plural
+# IELTS 10 TEST2 (7.5)
 
--: Not sure about the answer
+|           | True | False                                                    | Not Sure |
+| --------- | ---- | -------------------------------------------------------- | -------- |
+| Q1 -Q7    | *    |                                                          |          |
+| Q8        |      | Speculate overly                                         |          |
+| Q9 - Q12  | *    |                                                          |          |
+| **Q13**   |      |                                                          |          |
+| Q25 - Q26 | *    |                                                          |          |
+| Q27       |      | Synonymous replacement: huge numbers --> mass production |          |
+| Q28       | *    |                                                          |          |
+| Q29       |      | Synonymous replacement: apprentices --> assistants       |          |
+| Q30 -Q35  | *    |                                                          |          |
+| Q36       |      | Not insist on the answer                                 |          |
+| Q37 -Q39  | *    |                                                          |          |
+| Q40       |      | Can't understand the phrase: be too much for             |          |
 
-**Bold Sect** needs to be listened again and again.
+# IELTS 10 TEST3 (7)
 
-## Hit list
+|           | True | False                                                        | Not Sure                                 |
+| --------- | ---- | ------------------------------------------------------------ | ---------------------------------------- |
+| Q1 -Q6    | *    |                                                              |                                          |
+| Q7        |      | False: must be mentioned and must be opposite                |                                          |
+| Q8        | *    |                                                              |                                          |
+| Q9        |      | False: must be mentioned and must be opposite                |                                          |
+| Q10       | *    |                                                              |                                          |
+| Q11       |      | Pay attention to **NO MORE THAN THREE WORDS**                |                                          |
+| Q12 - Q17 | *    |                                                              |                                          |
+| Q18       |      | Misunderstand the keyword: warning (notification of sth, usually in advance) |                                          |
+| Q19 -Q22  | *    |                                                              |                                          |
+| Q23       |      | Not insist on the answer                                     |                                          |
+| Q24       |      |                                                              | Unknown word: paradoxical --> contradict |
+| Q25 -Q26  | *    |                                                              |                                          |
+| Q27       |      | Completion: usually can find the answer in the article, please find the paragraph and read one by one |                                          |
+| Q28       | *    |                                                              |                                          |
+| Q29       |      | Unknown word: live stock                                     |                                          |
+| Q30 -Q33  | *    |                                                              |                                          |
+| Q34       |      | Not insist on the answer                                     |                                          |
+| Q35 -Q37  | *    |                                                              |                                          |
+| Q38       |      | False: must be mentioned and must be opposite                |                                          |
+| Q39 - Q40 | *    |                                                              |                                          |
 
-### Step by step
+# IELTS 10 TEST4 (7)
 
-| Test  | No.  | Reason                                                       |
-| ----- | ---- | ------------------------------------------------------------ |
-| 5.3.2 | 15   | **Wrong keywords** of paragraph: by location name            |
-| 6.2.1 | 5    | **Wrong structure**: once ... however ... the explanation for this ... |
-| 6.4.1 | 2    | **Unknown words**                                            |
-|       | 4    | **Wrong keywords**: forget the middle of paragraph           |
-|       | 5    | **Unknown words**, **wrong keywords**: forget the end of paragraph |
-| 6.4.3 | 29   | **Unknown words**                                            |
-|       | 30   | Affected by No. 29                                           |
-|       |      |                                                              |
-|       |      |                                                              |
+**Passage 3 and 4**
 
-### T/F/N
+**Complete sentence**
 
-| Test  | No.  | Reason                                               |
-| ----- | ---- | ---------------------------------------------------- |
-| 5.3.3 | 35   | **Wrong key sentence**: neglect the end of paragraph |
-|       | 36   | Lack **inference**                                   |
-| 6.1.2 | 21   | **Misunderstand** the key sentence                   |
-|       |      |                                                      |
+|           | True | False                                    | Not Sure |
+| --------- | ---- | ---------------------------------------- | -------- |
+| Q1 -Q5    | *    |                                          |          |
+| Q6        |      | False: preposition before the empty word |          |
+| Q7 - Q22  | *    |                                          |          |
+| Q23       |      | Unknown keywords in question: rational   |          |
+| Q26       |      | Not read the last paragraph in detail    |          |
+| Q27       |      | *                                        |          |
+| Q28       |      | Unknown keywords in question: exemplify  |          |
+| Q29 -Q31  | *    |                                          |          |
+| Q32       |      | Neglect the first paragraph              |          |
+| Q33       |      | Misunderstand the question sentence      |          |
+| Q34       | *    |                                          |          |
+| Q35       |      | in a hurry                               |          |
+| Q36       |      | in a hurry                               |          |
+| Q37 - Q40 | *    |                                          |          |
 
+## IELTS 11 TEST1 (9)
+
+|      | True | False | Not Sure                                                     |
+| ---- | ---- | ----- | ------------------------------------------------------------ |
+| Q19  |      |       | Don't neglect the last paragraph fo True/False/Not Given question. Synonymous replacement: ancient monument --> the historically .... |
