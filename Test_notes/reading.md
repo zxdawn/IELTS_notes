@@ -86,3 +86,20 @@
 |      | True | False | Not Sure                                                     |
 | ---- | ---- | ----- | ------------------------------------------------------------ |
 | Q19  |      |       | Don't neglect the last paragraph fo True/False/Not Given question. Synonymous replacement: ancient monument --> the historically .... |
+
+## IELTS 11 TEST2 (7)
+
+**Passage 2 and 3**
+
+|           | True | False                                                        | Not Sure |
+| --------- | ---- | ------------------------------------------------------------ | -------- |
+| Q4        |      | Read the whole passage for True/False/Not Given question     |          |
+| Q12 - Q13 |      | Match the keyword to the sentence, instead of pick one from the sentence without reading thoroughly. |          |
+| Q14       |      | Unknown word in the question: undisputed                     |          |
+| Q16       |      | Need to understand the character: statues; Synonymous replacement: accelerate --> worse |          |
+| Q20       |      | Synonymous replacement: rather than --> opposing             |          |
+| Q28       |      | Synonymous replacement: sense --> perceive                   |          |
+| Q29       |      | Insist the first choice which is based on understanding      |          |
+| Q31       |      | Synonymous replacement: emotions --> feelings; Don't forget the first paragraph when filling. |          |
+| Q40       |      | From the global view                                         |          |
+

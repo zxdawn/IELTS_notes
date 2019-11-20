@@ -275,6 +275,38 @@
 | 11.4.4           | 33     | Spelling fault: sugers --> sugars                            |
 |                  | 37     | Spelling fault: ?? --> cattle                                |
 
+## IELTS 12 TEST5 (6.5)
+
+| Test           | No.    | Reason                                                       |
+| -------------- | ------ | ------------------------------------------------------------ |
+| 12.5.1         | 8      | Spelling fault: helmat --> helmet                            |
+|                | 9      | plural: shops, need to check it again when copy to the answer sheet |
+| **12.5.2**     | 14     | Disturbance, pay attention to the question like "allowed" and "not allowed" |
+|                | 16     | Not hear, Please listen the whole sentence.                  |
+| **(matching)** | **17** | Not hear                                                     |
+|                | **18** | Not hear                                                     |
+| **12.5.3**     | 21     | Disturbance                                                  |
+|                | 23     | Disturbance                                                  |
+|                | 25     | not plural                                                   |
+|                | 27     | Spelling fault: ensurance --> insurance                      |
+| 12.5.4         | 32     | plural: side effects, pay attention to **"NO MORE THAN TWO WORDS"** |
+|                | 34     | Not hear                                                     |
+|                | 38     | pay attention to **"NO MORE THAN TWO WORDS"**                |
+|                | 40     | pay attention to **"NO MORE THAN TWO WORDS"**                |
+
+## IELTS 12 TEST6 (7.5)
+
+| Test       | No.  | Reason                      |
+| ---------- | ---- | --------------------------- |
+| 12.6.1     | 1    | Disturbance, keep listening |
+|            | 7    | location name               |
+| **12.6.2** | 16   | Unknown keyword: premiere   |
+|            | 17   | Not hear                    |
+| 12.6.3     | 24   | Not hear                    |
+|            | 25   | Unkown keyword: genre       |
+| 12.6.4     | 31   | Unknown word: bullying      |
+|            | 40   | Unknown word: mediator      |
+
 # Summary
 
 | Test | Band |
@@ -298,4 +330,5 @@
 | 11.2 | 7.5  |
 | 11.3 | 7    |
 | 11.4 | 6.5  |
+| 12.5 | 6.5  |
 
