@@ -5,12 +5,12 @@ Some notes for IELTS.
 ## Books and websites
 
 
-| Listening                                                    | Reading                        | Writing                      | Speaking                              | Vocabulary                                                   | Resources                                                    |
-| ------------------------------------------------------------ | ------------------------------ | ---------------------------- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **IELTS Cambridge Test Books**                               | **IELTS Cambridge Test Books** | **https://ielts-simon.com/** | **http://ielts-yasi.englishlab.net/** | IELTS Cambridge Test Books                                   | **https://www.oxfordonlineenglish.com/free-ielts-preparation-lessons** |
-| [Voice of Cambridge (Wang Lu)](https://weibo.com/ttarticle/p/show?id=2309404319052876149390) |                                |                              |                                       | [Academic Word List Exercises](https://dcielts.info/academic-word-list-exercises/) | [The Economist](https://www.economist.com/)                  |
-|                                                              |                                |                              |                                       | [The Academic Word List from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/us/wordlist/english/academic/) | [BBC 6 minute learning English](http://www.bbc.co.uk/learningenglish/english/features/6-minute-english), [BBC NEWs](https://www.bbc.com/news), [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) |
-|                                                              |                                |                              |                                       | [Word of the Day](https://www.merriam-webster.com/word-of-the-day) | https://www.jimuenglish.com/ (listening podcast online)      |
+| Listening                      | Reading                        | Writing                      | Speaking                              | Vocabulary                                                   | Resources                                                    |
+| ------------------------------ | ------------------------------ | ---------------------------- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **IELTS Cambridge Test Books** | **IELTS Cambridge Test Books** | **https://ielts-simon.com/** | **http://ielts-yasi.englishlab.net/** | IELTS Cambridge Test Books                                   | **https://www.oxfordonlineenglish.com/free-ielts-preparation-lessons** |
+|                                |                                |                              | **https://markteacher.com/**          | [Academic Word List Exercises](https://dcielts.info/academic-word-list-exercises/) | [The Economist](https://www.economist.com/)                  |
+|                                |                                |                              |                                       | [The Academic Word List from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/us/wordlist/english/academic/) | [BBC 6 minute learning English](http://www.bbc.co.uk/learningenglish/english/features/6-minute-english), [BBC NEWs](https://www.bbc.com/news), [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) |
+|                                |                                |                              |                                       | [Word of the Day](https://www.merriam-webster.com/word-of-the-day) | https://www.jimuenglish.com/ (listening podcast online)      |
 
 ## Directories
 
@@ -285,7 +285,7 @@ Some notes for IELTS.
 </details>
 
 
-## Current timetable
+## Past timetable
 
 
 | Time           | Task                                                         |
@@ -305,3 +305,37 @@ Some notes for IELTS.
 | 23:30 -- 24:00 | Free listening time (Youtube, 6 Minute English, audios of Yang Shuai) |
 
 `Summary: 1.0 hours for Scientific research, 11 hours for IELTS.`
+
+## IELTS Test (2019-12-07)
+
+### Speaking Test
+
+**Part 1**
+
+- Your Home / Accommodation 
+- Reading 
+- Time Management  
+
+**Part 2**
+
+A time you had to give some advice 
+
+**Part 3**
+
+- Do you think parents should advise their children on what friends to have?
+- Should they follow all suggestions given by parents?
+- How do these experts give advice to others?
+- What kind of (examples of) skills do people need to have in order to give advice to others?
+- Who is the best person for guiding, parents or teachers? (I answered: neither. that should be internet, especially Google)
+- How does Google help people make decisions about career? (This is a good example of how your answers can affect the next questions you get - interesting!) 
+
+### Writing Test
+
+In some countries, some older people choose to live in the retirement communities with other people, rather than living with their adult children. Is it a positive or negative development?
+
+### Test results
+
+| Listening | Reading | Writing | Speaking | Overall |
+| --------- | ------- | ------- | -------- | ------- |
+|           |         |         |          |         |
+
