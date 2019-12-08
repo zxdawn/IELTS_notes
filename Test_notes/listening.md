@@ -307,6 +307,21 @@
 | 12.6.4     | 31   | Unknown word: bullying      |
 |            | 40   | Unknown word: mediator      |
 
+## IELTS 14 TEST1 (7)
+
+| Test       | No.  | Reason                                           |
+| ---------- | ---- | ------------------------------------------------ |
+| 14.1.1     | 3    | Forgot to check the next empty blank             |
+|            | 7    | Forgot to check the next empty blank             |
+|            | 9    | Unknown word: blown --> blond                    |
+| **14.1.2** | 12   | don't write down many details and don't scribble |
+|            | 13   | don't write down many details                    |
+|            | 17   | Not hear clearly                                 |
+| 14.1.3     | 21   | Feel free to listen                              |
+|            | 22   | Feel free to listen, don't judge on my own       |
+|            | 27   | Disturbance, Pay attention to "better"           |
+|            | 29   | Please believe the first sense                   |
+
 # Summary
 
 | Test | Band |
@@ -331,4 +346,17 @@
 | 11.3 | 7    |
 | 11.4 | 6.5  |
 | 12.5 | 6.5  |
+| 12.6 | 7.5  |
+| 14.1 | 7    |
+| 14.4 | 6.5  |
+
+## Note
+
+Take a look at Section 1 ~ 5 seconds before the beginning of the example.
+
+If possible, please finish each section after the end of that.
+
+Pay attention to "better"
+
+Follow the capital or lowercase
 

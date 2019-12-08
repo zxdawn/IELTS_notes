@@ -16,6 +16,10 @@ listening.plot(x='Test', y='Band', ax=axes[1], kind='line', ylim=[6, 8.5], label
 axes[0].set_xlabel("Test No.")
 axes[1].set_xlabel("Test No.")
 axes[0].set_ylabel("Band")
+# axes[0].set_xticks(read['Test'].index)
+axes[0].set_xticklabels(read['Test'].values)
+axes[1].set_xticklabels(listening['Test'].values)
 
 plt.tight_layout()
 plt.savefig('band.png')
+# plt.show()

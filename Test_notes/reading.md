@@ -103,3 +103,26 @@
 | Q31       |      | Synonymous replacement: emotions --> feelings; Don't forget the first paragraph when filling. |          |
 | Q40       |      | From the global view                                         |          |
 
+## IELTS 8 TEST3 (7.5)
+
+|      | True | False                                                        | Not Sure |
+| ---- | ---- | ------------------------------------------------------------ | -------- |
+| Q14  |      | Unknown word: defective                                      |          |
+| Q15  |      | Need to read the whole paragraph in detail if the question is based on specific one |          |
+| Q19  |      | Didn't find the keyword and read the whole paragraph         |          |
+| Q22  |      | Couldn't get the point of the sentence                       |          |
+| Q23  |      | didn't find the key sentence                                 |          |
+| Q37  |      |                                                              |          |
+
+## IELTS 8 TEST1 (7.5)
+
+|      | True | False                                                        | Not Sure |
+| ---- | ---- | ------------------------------------------------------------ | -------- |
+| Q14  |      | Please focus on keyword if I don't understand words in the Headings |          |
+| Q16  |      | Neglect the sentence after the first sentence                |          |
+| Q22  |      | Please remember "must be mentioned, must be opposed"         |          |
+| Q24  |      | Information may be deduced from two paragraphs               |          |
+| Q26  |      | Didn't find the keyword. Unknown word: metropolitan -- city  |          |
+| Q29  |      | Didn't understand the last paragraph quite well. Need to be patient at the end of last article |          |
+| Q30  |      | as same as above                                             |          |
+| Q38  |      | the right answer just before it; if I meet the clause, I need to choose the word in the main sentence. |          |
