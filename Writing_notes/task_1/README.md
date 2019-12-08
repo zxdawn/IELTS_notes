@@ -69,3 +69,23 @@ this could be explained by the fact that
 As a result
 
 At the same time
+
+## How to build sentence
+
+1. Basic fact (subject + verb)
+
+   > The number of Japanese tourist who travelled abroad increased.
+
+2. Number
+
+3. When?
+
+4. Exactly this number?
+
+5. Add an verb
+
+6. Rephrase with a noun
+
+7. Can we begin with a noun?
+
+   > There was a dramatic increase in the number of Japanese tourists who travelled abroad from just under 5 million to around 15 million between 1985 and 1995, a rise of about 10 million in 10 years.
