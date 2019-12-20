@@ -130,7 +130,7 @@ Some notes for IELTS.
 </details>
 
 <details>
-<summary>2019-10-01 -- 2019-10-15</summary>
+<summary>2019-10-01 -- 2019-10-15 (Actually, I didn't practice ....)</summary>
 <p>
 
 - **Listening**
@@ -210,7 +210,7 @@ Some notes for IELTS.
 
 
 <details>
-<summary>2019-11-01 -- 2019-11-07</summary>
+<summary>2019-11-01 -- 2019-11-07 (The exact preparation period)</summary>
 <p>
 
 - **Listening**
